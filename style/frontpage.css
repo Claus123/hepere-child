@@ -705,7 +705,22 @@ header.l-header a {
 
 @media screen and (min-width: 766.9px) {
   .bg-grey-md {
+    width: 100vw;
     margin-left: -10vw;
+  }
+}
+
+@media screen and (min-width: 821.9px) {
+  .bg-grey-md {
+    width: 100vw;
+    margin-left: -9.5vw;
+  }
+}
+
+@media screen and (min-width: 849.9px) {
+  .bg-grey-md {
+    width: 100vw;
+    margin-left: -9.25vw;
   }
 }
 
